@@ -6,14 +6,15 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 
 TODO: 
-* Main: 
+Main: 
 	* Create and fill in work page
 	* Images for projects
-* Projects: 
+Projects: 
 	* More photos/images of code/physical projects
 	* Writeups for each project
-* Teaching: 
-	* Everything (TBD)
+Teaching: 
+	* Draft is up, just fleshing out everything
+	* Add my problems PDF to TA section
 
 Credits:
 
