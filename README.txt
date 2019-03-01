@@ -5,16 +5,18 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-TODO: 
-Main: 
-	* Create and fill in work page
+TODO:
+Main:
+	* Update aboutme (graduated, etc. linkedin?)
 	* Images for projects
-Projects: 
+Projects:
 	* More photos/images of code/physical projects
 	* Writeups for each project
-Teaching: 
-	* Draft is up, just fleshing out everything
-	* Add my problems PDF to TA section
+Page for creative stuff I make
+Page for translation efforts
+
+
+____________________________________________
 
 Credits:
 
